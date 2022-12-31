@@ -6,7 +6,8 @@ local lookup = {
 	["000"] = {
 		PrintName = "Cool Ass Paint Brush",
 		CompactName = "PAINBRUH",
-		Description = "Woah!!"
+		Description = "Woah!!",
+		Folder = "TF|2"
 	},
 	-- Flat Colors
 	["001"] = {
@@ -875,7 +876,227 @@ local lookup = {
 		Description = "Apex Camo",
 		Folder = "TF|2/APEX/FLORAL"
 	},
-	
+	-- Apex Unique
+	["193"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["211"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["218"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["272"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["274"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["279"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["304"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["194"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["195"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["196"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	["208"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 1"
+	},
+	-- SET 2
+	["197"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["198"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["199"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["200"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["201"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["202"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["203"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["204"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["205"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["206"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	["207"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 2"
+	},
+	-- SET 3
+	["209"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["212"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["213"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["214"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["215"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["216"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["217"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["219"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["221"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	["222"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 3"
+	},
+	-- SET 4
+	["223"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["224"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["225"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["226"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["227"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["228"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["229"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["230"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["231"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["232"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	["234"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 4"
+	},
+	-- SET 5
+	["235"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["236"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["237"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["238"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["239"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["240"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["241"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["242"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["243"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["244"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
+	["245"] = {
+		Description = "Apex Camo",
+		Folder = "TF|2/APEX/SET 5"
+	},
 }
 -- THANK YOU FESIUG
 for _, soup in ipairs(fileslookedup) do
@@ -900,21 +1121,21 @@ for _, soup in ipairs(fileslookedup) do
 	if !override.Folder then
 		local ser = tonumber(coolname)
 		if ser <= 100 then
-			shitcode = "0-100"
+			shitcode = "TF|2/APEX/UNKNOWN/0-100"
 		elseif ser <= 200 then
-			shitcode = "101-200"
+			shitcode = "TF|2/APEX/UNKNOWN/101-200"
 		elseif ser <= 300 then
-			shitcode = "201-300"
+			shitcode = "TF|2/APEX/UNKNOWN/201-300"
 		elseif ser <= 400 then
-			shitcode = "301-400"
+			shitcode = "TF|2/APEX/UNKNOWN/301-400"
 		elseif ser <= 500 then
-			shitcode = "401-500"
+			shitcode = "TF|2/APEX/UNKNOWN/401-500"
 		elseif ser <= 600 then
-			shitcode = "501-600"
+			shitcode = "TF|2/APEX/UNKNOWN/501-600"
 		elseif ser <= 700 then
-			shitcode = "601-700"
+			shitcode = "TF|2/APEX/UNKNOWN/601-700"
 		elseif ser <= 800 then
-			shitcode = "701-800"
+			shitcode = "TF|2/APEX/UNKNOWN/701-800"
 		end
 	end
 	ATT.Folder = override.Folder or shitcode
